@@ -7,7 +7,7 @@
 #### This repository contains a comprehensive automated testing project built with Java, TestNG, and Allure Reports. 
 #### The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
 
-#### Features
+# Features
 - Java: The project is developed using Java, providing a robust and widely used programming language for automation.
   
 - TestNG: TestNG is used as the testing framework, offering powerful test configuration options, parallel execution, and detailed reporting.
