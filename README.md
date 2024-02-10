@@ -13,3 +13,5 @@
 #### Page Object Model (POM): The project follows the POM design pattern, enhancing test maintainability and reusability by separating page elements and actions.
 #### Allure Reports: Test results are documented using Allure Reports, providing a clear and interactive visualization of test execution.
 #### Logging: The project includes logging capabilities to capture and document important events during test execution.
+
+# Reports
