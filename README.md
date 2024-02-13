@@ -20,4 +20,5 @@
 
 ## Reports
 
-<img src="http://192.168.1.217:51275/index.html#">
+<img src="![image](https://github.com/yuvaldd/finalProject/assets/89076084/e3232ad6-52ec-49da-8558-cdfa2922fbc0)
+">
