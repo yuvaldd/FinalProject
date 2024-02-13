@@ -19,3 +19,5 @@
 - Logging: The project includes logging capabilities to capture and document important events during test execution.
 
 ## Reports
+
+<img src="http://192.168.1.217:51275/index.html#">
