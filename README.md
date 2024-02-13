@@ -24,4 +24,4 @@
 
 <img src="https://github.com/yuvaldd/finalProject/blob/main/Graphs.png">
 
-<img src="">
+<img src="https://github.com/yuvaldd/finalProject/blob/main/Suites.png">
