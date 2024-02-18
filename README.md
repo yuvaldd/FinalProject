@@ -23,6 +23,9 @@
 <img src="https://github.com/yuvaldd/finalProject/blob/main/OverView.png"> 
 <img src="https://github.com/yuvaldd/finalProject/blob/main/Graphs.png">
 
+## Getting Started
 
+- Clone the Repository:
+git clone ""
 
 
