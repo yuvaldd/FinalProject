@@ -26,6 +26,7 @@
 ## Getting Started
 
 - Clone the Repository:
-git clone ""
+  
+git clone "https://github.com/yuvaldd/finalProject.git"
 
 
