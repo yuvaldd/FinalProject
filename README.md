@@ -28,6 +28,11 @@ The project follows the Page Object Model (POM) design pattern for a modular and
   ```bash
   mvn allure:serve
   ```
+## 📊 Reports Examples
+<p>
+  <img src="IMAGES/OverView.png" width="40%" title="Example for screenshot on failure"  />
+  <img src="IMAGES/Graphs.png" width="40%" alt="Example for screenshot on failure" />
+</p>
 
 <img src="https://github.com/yuvaldd/finalProject/blob/main/OverView.png"> 
 <img src="https://github.com/yuvaldd/finalProject/blob/main/Graphs.png">
