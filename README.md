@@ -32,11 +32,70 @@ git clone "https://github.com/yuvaldd/finalProject.git"
 
 ## 📁 Project Structure
 ```
-
-
-
-
-
+├───.allure
+│   └───allure-2.8.1
+│       ├───bin
+│       ├───config
+│       ├───lib
+│       │   └───config
+│       └───plugins
+│           ├───behaviors-plugin
+│           │   └───static
+│           ├───custom-logo-plugin
+│           │   └───static
+│           ├───jira-plugin
+│           │   └───lib
+│           ├───junit-xml-plugin
+│           ├───packages-plugin
+│           │   └───static
+│           ├───screen-diff-plugin
+│           │   └───static
+│           ├───trx-plugin
+│           ├───xctest-plugin
+│           │   └───lib
+│           ├───xray-plugin
+│           │   └───lib
+│           └───xunit-xml-plugin
+├───.settings
+├───allure-results
+├───ScreenShots
+├───src
+│   ├───main
+│   │   ├───java
+│   │   └───resources
+│   └───test
+│       ├───java
+│       │   ├───pageobjects
+│       │   └───tests
+│       └───resources
+├───target
+│   ├───allure-results
+│   ├───classes
+│   ├───generated-sources
+│   │   └───annotations
+│   ├───generated-test-sources
+│   │   └───test-annotations
+│   ├───maven-status
+│   │   └───maven-compiler-plugin
+│   │       ├───compile
+│   │       │   └───default-compile
+│   │       └───testCompile
+│   │           └───default-testCompile
+│   ├───surefire-reports
+│   │   ├───junitreports
+│   │   ├───old
+│   │   │   └───Suite
+│   │   └───Suite
+│   └───test-classes
+│       ├───pageobjects
+│       └───tests
+└───test-output
+    ├───Default suite
+    ├───junitreports
+    ├───old
+    │   ├───Default suite
+    │   └───Suite
+    └───Suite
 
 ```
 
