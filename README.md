@@ -17,16 +17,15 @@
 | **Allure Reports:**   | Test results are documented using Allure Reports, providing a clear and interactive visualization of test execution.        |
 | **Jenkins:**   | Continuous integration and continuous delivery (CI/CD) platform for automated builds and deployments.        |
 | **Logging:**   | The project includes logging capabilities to capture and document important events during test execution.       |
-- Logging: The project includes logging capabilities to capture and document important events during test execution.
 
-## Reports
+## 📊 Reports
 
 <img src="https://github.com/yuvaldd/finalProject/blob/main/OverView.png"> 
 <img src="https://github.com/yuvaldd/finalProject/blob/main/Graphs.png">
 
-## Getting Started
+## 🚀 Getting Started
 
-1. Clone the Repository:
+1. **Clone the Repository:**
   
 git clone "https://github.com/yuvaldd/finalProject.git"
 
