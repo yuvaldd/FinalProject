@@ -42,3 +42,12 @@ git clone "https://github.com/yuvaldd/finalProject.git"
 
 Thanks for visiting my GitHub profile! 😊
 Yuval Haddy
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
