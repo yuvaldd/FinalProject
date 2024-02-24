@@ -18,6 +18,7 @@
 | **Jenkins:**   | Continuous integration and continuous delivery (CI/CD) platform for automated builds and deployments.        |
 | **Logging:**   | The project includes logging capabilities to capture and document important events during test execution.       |
 
+
 ## 📊 Reports
 
 <img src="https://github.com/yuvaldd/finalProject/blob/main/OverView.png"> 
